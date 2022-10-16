@@ -1,0 +1,68 @@
+[
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+      "category": "food",
+      "name": "RICE",
+      "time": 30,
+      "description": "",
+      
+      "img": "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      
+      "quantity": 0
+    },
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+      "category": "food",
+      "name": "FISH",
+      "time": 40,
+      "description": "",
+      "img": "https://images.unsplash.com/photo-1600699899970-b1c9fadd8f9e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+      
+      "quantity": 0
+    },
+    
+    {
+      "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+      "category": "food",
+      "name": "CHICKEN",
+      "time": 40,
+      "description": "",
+      "img": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1013&q=80",
+      
+      "quantity": 0
+    },
+    {
+      "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+      "category": "food",
+      "name": "CHINGRI MALAYKARI",
+      "time": 60,
+      "description": "",
+      "img": "https://media.istockphoto.com/photos/chingri-malai-curry-also-known-as-prawn-malai-curry-is-a-odisha-curry-picture-id1363066965?s=612x612",
+      
+      "quantity": 0
+    },
+    {
+      "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+      "category": "food",
+      "name": "MEAT",
+      "time": 60,
+      "description": "",
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
+      
+      "quantity": 0
+    },
+    
+    {
+      "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+      "category": "food",
+      "name": "DAL",
+      "time": 40,
+      "description": "",
+      "img": "https://images.unsplash.com/photo-1626500155537-93690c24099e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+      
+      "quantity": 0
+    }
+    
+    
+  ]
+  
