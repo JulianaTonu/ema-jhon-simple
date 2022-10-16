@@ -43,7 +43,7 @@ if(!exists){
 
 else{
     const rest =cart.filter(product=>product.id !== selectedProduct.id)
-    exists.quantity =exists.quantity +1
+    exists.quantity = exists.quantity + 1
     newcart =[...rest,exists]
 }
 
@@ -55,8 +55,8 @@ else{
 }
 
     return (
-        <div className='shop-container'>
-            <div className="products-container">
+        <div className='container shop-container'>
+            <div className=" container products-container">
                 
                 {
                     products.map(product => <Products 

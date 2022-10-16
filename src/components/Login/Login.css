@@ -1,0 +1,44 @@
+.form-container{
+    width: 400px;
+    height: 500px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin: 20px auto;
+}
+.form-title{
+    text-align: center;
+    color: brown;
+}
+
+.form-control{
+    margin-left: 49px;
+}
+
+.form-control label{
+    display: block;
+    margin-bottom: 10px;
+}
+.form-control input{
+    width: 300px;
+    height: 35px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    font-size: 1rem;
+    
+}
+.btn{
+    text-align: center;
+    background-color: brown;
+    width: 305px;
+    height: 40px;
+    border-radius: 6px;
+    color: white;
+    margin-left: 49px;
+    font-size: 1rem;
+    border: none;
+    
+}
+.btn:hover{
+    background-color: rgb(216, 39, 39);
+
+}
